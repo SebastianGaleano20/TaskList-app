@@ -1,0 +1,10 @@
+.Form{
+    border: 2px solid green;
+    margin: 20px auto;
+    max-width: 40%;
+}
+
+.newTask{
+    padding: 10px;
+    margin: 20px;
+}

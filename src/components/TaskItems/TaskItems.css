@@ -1,0 +1,10 @@
+.Item{
+    border: 1px solid;
+    margin: 1px auto;
+    max-width: 40%;
+    
+}
+input{
+    margin: 10px ;
+    padding: 10px;
+}
